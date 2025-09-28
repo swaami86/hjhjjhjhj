@@ -9,9 +9,14 @@
     "deploy:production": "wrangler deploy --env production"
   },
   "dependencies": {
-    "wrangler": "^4.32.0"
+    "wrangler": "^4.40.2"
   },
-  "devDependencies": {},
-  "keywords": ["cloudflare", "workers", "api", "ai", "image-generation"],
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "api",
+    "ai",
+    "image-generation"
+  ],
   "license": "MIT"
 }
